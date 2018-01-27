@@ -1,5 +1,7 @@
 bin/
-project/
+project/build.properties
+project/project/
+project/target/
 target/
 build/
 .cache
