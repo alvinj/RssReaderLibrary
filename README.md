@@ -8,6 +8,9 @@ library if you want to use it to read an RSS feed URL.
 Of course if you don’t like the code as is, feel free to just use this library as
 a “demo” that shows what you have to do to read an RSS feed.
 
+See the “Driver” classes for examples of how to use the methods in the library.
+
+
 Alvin Alexander    
 https://alvinalexander.com
 
